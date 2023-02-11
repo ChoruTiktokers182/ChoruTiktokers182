@@ -10,7 +10,7 @@
 		"Steve",
 		"Choru"
 	],
-	"email": "mpoprev2@email.com",
+	"email": "johnstevegamer5@gmail.com",
 	"birthYear": 2001,
 	"gender": "male",
 	"isStudent": true,
