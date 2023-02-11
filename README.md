@@ -11,7 +11,8 @@
 		"Choru"
 	],
 	"email": "johnstevegamer5@gmail.com",
-	"birthYear": 2001,
+	"birthYear": 2008,
+        "age": 14,
 	"gender": "male",
 	"isStudent": true,
 	"isPro": false,
