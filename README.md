@@ -11,7 +11,7 @@
 - **Gender:** Male
 - **Location:** Cebu City, Philippines 🌴🇵🇭
 
-One day I will be successful in programming! 🌟 Here are some examples of my determination:
+One day I will be successful in programming! 🌟 Here my determination:
 - I spend hours every day learning new programming languages and improving my skills.
 - I participate in coding competitions to challenge myself and test my abilities.
 - I am working on personal projects to apply what I've learned and build a strong portfolio.
