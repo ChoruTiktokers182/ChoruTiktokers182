@@ -6,7 +6,7 @@
 
 - **Name:** JohnSteve Costaños
 - **Email:** [johnstevegamer5@gmail.com](mailto:johnstevegamer5@gmail.com) 📧
-- **Age:** 14
+- **Age:** 16
 - **Birth Year:** 2008
 - **Gender:** Male
 - **Location:** Cebu City, Philippines 🌴🇵🇭
